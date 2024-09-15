@@ -67,3 +67,7 @@ Conclusion
 -
 
 This project demonstrates how to display customer and order information using ASP.NET MVC. The model classes define the data structure, the ViewModel holds this data together, the controller manages the data flow to the view, and the view presents the data to the user.
+
+Technologies Used
+-
+C#, HTML, CSS, MVC
