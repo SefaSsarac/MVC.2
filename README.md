@@ -70,4 +70,4 @@ This project demonstrates how to display customer and order information using AS
 
 Technologies Used
 -
-C#, HTML, CSS, MVC
+C#, HTML, CSS, ASP.NET MVC
