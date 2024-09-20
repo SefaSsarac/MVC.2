@@ -2,7 +2,7 @@ ASP.NET MVC CUSTOMER AND ORDER INFORMATION DISPLAY SERVICE
 -
 This project involves creating an application using ASP.NET MVC to display customer and order information. It follows the Model-View-Controller (MVC) architecture, separating data presentation from business logic. Follow the steps below to set up and configure the project.
 
-Stage 1: Create Models
+Create Models
 -
 
 
@@ -26,7 +26,7 @@ ProductName (Name of the product, of type string)
 Price (Price of the product, of type decimal)
 Quantity (Quantity of the product ordered, of type int)
 
-Stage 2: Create ViewModel
+ Create ViewModel
 -
 
 CustomerOrderViewModel Class
@@ -36,7 +36,7 @@ Customer (A Customer object)
 Orders (A list of Order objects)
 The ViewModel will encapsulate the model data and any additional information required for the view.
 
-Stage 3: Create Controller
+Create Controller
 -
 
 CustomerOrdersController
@@ -50,7 +50,7 @@ Create a sample Customer object and several Order objects.
 Use these objects to create a CustomerOrderViewModel object.
 Pass the CustomerOrderViewModel object to the view.
 
-Stage 4: Create View
+Create View
 -
 
 Index View
