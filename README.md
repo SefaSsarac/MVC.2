@@ -2,7 +2,7 @@ ASP.NET MVC CUSTOMER AND ORDER INFORMATION DISPLAY SERVICE
 -
 This project involves creating an application using ASP.NET MVC to display customer and order information. It follows the Model-View-Controller (MVC) architecture, separating data presentation from business logic. 
 Create Models
--
+
 
 
 Customer Model
